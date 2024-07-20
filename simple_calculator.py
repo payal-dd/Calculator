@@ -1,10 +1,10 @@
 """
 
-@Author: Pranta Sarker
-Institute: North East University Bangladesh
+@Author: Payal Dabahde
+
 Language: Python
 Version: 3.x
-Platfrom: Pycharm Community Version
+
 
 """
 
@@ -13,7 +13,7 @@ from tkinter import *;
 from tkinter import messagebox;
 
 def actionauthor():
-    messagebox.showinfo("Author", "Pranta Sarker\nBatch: 6th\nDepartment: CSE\nNorth East University Bangladesh")
+    messagebox.showinfo("Author", "Payal Dabhade\nDepartment: CSE\nMSS-CET College Jalna")
 
 #Check weather the input string is a number or not
 def is_number(s):
